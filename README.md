@@ -29,7 +29,7 @@ You can Contact me through E-mail: elkhailiyassir@gmail.com or Whatsapp: +212623
 #
 # 👋 Hallo!, Ich bin @yassirelkhaili
 
-Ich bin Student und Entwickler mit Leidenschaft für Technologie und Softwareentwicklung. Derzeit studiere ich Webentwicklung und Programmierung an der Webcinq (https://webcinq.com/) und mache ein Praktikum bei Eureka Creation (https://www.eureka-creation.ma/) und freue mich auf die Möglichkeit, mehr Erfahrungen in diesem Bereich zu sammeln.
+Ich heiße Yassir Elkhaili, Ich bin Student und Entwickler mit Leidenschaft für Technologie und Softwareentwicklung. Derzeit studiere ich Webentwicklung und Programmierung an der Webcinq (https://webcinq.com/) und mache ein Praktikum bei Eureka Creation (https://www.eureka-creation.ma/) und freue mich auf die Möglichkeit, mehr Erfahrungen in diesem Bereich zu sammeln.
 
 Ich habe eine solide Grundlage in den unten genannten Fähigkeiten erworben. Durch mein Studium, meine Ausbildung und mein Praktikum hatte ich die Gelegenheit, an einer Reihe von persönlichen Projekten zu arbeiten, die mir ermöglicht haben, meine Fähigkeiten in einem praktischen Kontext anzuwenden. Ich bin immer auf der Suche nach Möglichkeiten, zu lernen und mich weiterzuentwickeln.
 
