@@ -22,7 +22,7 @@ http://funkech.com/
 
 Please check out my CV it can be downloaded from my Portfolio at www.yassirelkhaili.com
 
-## Contact
+## Kontakt
 
 - 📫 How to reach me: 
 You can Contact me through E-mail: elkhailiyassir@gmail.com or Whatsapp: +212623683260 or through the contact form on my personal Portfolio: www.yassirelkhaili.com
