@@ -26,7 +26,10 @@ Please check out my CV it can be downloaded from my Portfolio at www.yassirelkha
 
 - 📫 How to reach me: 
 You can Contact me through E-mail: elkhailiyassir@gmail.com or Whatsapp: +212623683260 or through the contact form on my personal Portfolio: www.yassirelkhaili.com
+
 #
+#
+
 # 👋 Hallo!, Ich bin @yassirelkhaili
 
 Ich heiße Yassir Elkhaili, Ich bin Student und Entwickler mit Leidenschaft für Technologie und Softwareentwicklung. Derzeit studiere ich Webentwicklung und Programmierung an der Webcinq (https://webcinq.com/) und mache ein Praktikum bei Eureka Creation (https://www.eureka-creation.ma/) und freue mich auf die Möglichkeit, mehr Erfahrungen in diesem Bereich zu sammeln.
