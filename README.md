@@ -12,7 +12,7 @@ I am a hard-working and detail-oriented individual with excellent problem-solvin
 - HTML5, CSS3,Sass, Bootstrap, Javascript, ReactJS, Jquery, PHP, SQL, Csharp.
 
 ## Projects
-- All of my Current projects are listed in my Protfolio at www.yassirelkhaili.com
+- Only my Current Ongoing projects are listed in my Protfolio at www.yassirelkhaili.com
 - Source Code: You can check out my personal projects in my Github Profile
 - Live Demo: Check out my Netlify Account https://app.netlify.com/teams/yassirelkhaili
 - Note my Wordpress Wesites are not included in this Github:  https://www.marrakech-excursions.co.uk/ https://moroccan-leather-pouf.com/ 
