@@ -8,8 +8,8 @@ I am a hard-working and detail-oriented individual with excellent problem-solvin
 
 ## Skills
 
-- Front End developement.
-- HTML5, CSS3,Sass, Bootstrap, Javascript, ReactJS, Jquery, PHP, SQL, Csharp.
+- Front End developement, Back End developement.
+- HTML5, CSS3,Sass, Bootstrap, Javascript, ReactJS, ExpressJS, NodeJS, PHP, SQL, Csharp.
 
 ## Projects
 - Only my Current Ongoing projects are listed in my Protfolio at www.yassirelkhaili.com
