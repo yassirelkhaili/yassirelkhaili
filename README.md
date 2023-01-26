@@ -40,8 +40,8 @@ Ich bin eine fleißige und detailorientierte Person mit ausgezeichneten Probleml
 
 ## Fähigkeiten
 
-- Front End-Entwicklung.
-- HTML5, CSS3, Sass, Bootstrap, JavaScript, ReactJS, Jquery, PHP, SQL, Csharp.
+- Front End-Entwicklung, Back End-Entwicklung.
+- HTML5, CSS3, Sass, Bootstrap, JavaScript, ReactJS, ExpressJS, NodeJS, PHP, SQL, Csharp.
 
 ## Projekte
  
