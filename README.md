@@ -9,7 +9,7 @@ I am a hard-working and detail-oriented individual with excellent problem-solvin
 ## Skills
 
 - Front End developement, Back End developement.
-- Html, Css, Bootstrap, Tailwindcss, Typescript, Javascript, Php, C, Sql, Reactjs, Expressjs, Nextjs, Nodejs, Laravel, prisma.
+- Html, Css, Bootstrap, Tailwindcss, Typescript, Javascript, Php, C, Sql, Reactjs, Expressjs, Nextjs, Nodejs, Laravel, Prisma.
 
 ## Projects
 - Only my Current Ongoing projects are listed in my Protfolio at www.yassirelkhaili.com
@@ -41,7 +41,7 @@ Ich bin eine fleißige und detailorientierte Person mit ausgezeichneten Probleml
 ## Fähigkeiten
 
 - Front End-Entwicklung, Back End-Entwicklung.
-- HTML5, CSS3, Sass, Bootstrap, JavaScript, ReactJS, ExpressJS, NodeJS, PHP, SQL, Csharp.
+- Html, Css, Bootstrap, Tailwindcss, Typescript, Javascript, Php, C, Sql, Reactjs, Expressjs, Nextjs, Nodejs, Laravel, Prisma.
 
 ## Projekte
  
