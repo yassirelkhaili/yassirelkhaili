@@ -1,5 +1,5 @@
 # 👋 Hi there!, I’m @yassirelkhaili
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassirelkhaili)](https://github.com/yassirelkhaili/github-readme-stats)
 My name is Yassir Elkhaili, I am a Student and Developer with a passion for technology and software development. I am currently studying web developement and programming at Webcinq (https://webcinq.com/) and Interning at Eureka Creation (https://www.eureka-creation.ma/) and am excited about the opportunity to gain more experience in the field.
 
 I have gained a solid foundation in the skills mentioned below. Through my studies, Training and internship I have had the opportunity to work on a number of personal projects that have allowed me to apply my skills in a practical setting. I am always looking for opportunities to learn and grow.
