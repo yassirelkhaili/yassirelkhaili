@@ -5,6 +5,20 @@ I have gained a solid foundation in the skills mentioned below. Through my studi
 
 I am a hard-working and detail-oriented individual with excellent problem-solving skills. I am eager to contribute my skills and knowledge to a team of talented professionals and make a meaningful impact. Thank you for your intrest.
 
+## Profile Views
+
+
+  <table>
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/yassirelkhaili"> <img src="https://komarev.com/ghpvc/?username=yassirelkhaili&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 ## Skills
 
 - Front End developement, Back End developement.
