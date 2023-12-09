@@ -14,7 +14,7 @@ I am a hard-working and detail-oriented individual with excellent problem-solvin
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/yassirelkhaili"> <img src="https://komarev.com/ghpvc/?username=yassirelkhaili&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/yassirelkhaili"> <img src="https://komarev.com/ghpvc/?username=yassirelkhaili&style=for-the-badge&color=react"> </a>
       </td>
     </tr>
   </table>
