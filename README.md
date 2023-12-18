@@ -1,73 +1,138 @@
-# 👋 Hi there!, I’m @yassirelkhaili
-My name is Yassir Elkhaili, I am a Student and Developer with a passion for technology and software development. I am currently studying web developement and programming at Webcinq (https://webcinq.com/) and Interning at Eureka Creation (https://www.eureka-creation.ma/) and am excited about the opportunity to gain more experience in the field.
+<img align="right" height="150" src="https://i.imgur.com/jN1xFwh.jpg" />
 
-I have gained a solid foundation in the skills mentioned below. Through my studies, Training and internship I have had the opportunity to work on a number of personal projects that have allowed me to apply my skills in a practical setting. I am always looking for opportunities to learn and grow.
+###
 
-I am a hard-working and detail-oriented individual with excellent problem-solving skills. I am eager to contribute my skills and knowledge to a team of talented professionals and make a meaningful impact. Thank you for your intrest.
+<div align="left">
+<h2>Hello There👋!</h2>
+</div>
 
-## Profile Views
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/yassir-elkhaili-ab928b266/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="mailto:elkhailiyassir@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.facebook.com/profile.php?id=100010165301312"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
+  <a href="https://twitter.com/1337FIL"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
+  <a href="https://leetcode.com/yassirelkhaili/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode logo"  /></a>
+  <a href="https://www.hackerrank.com/profile/elkhailiyassir"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35" alt="hackerrank logo"  /></a>
+  <a href="https://www.freecodecamp.org/Blue479"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height="35" alt="freecodecamp logo"  /></a>
+</div>
 
-  <table>
-    <tr>
-      <th>Total Count</th>
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/yassirelkhaili"> <img src="https://komarev.com/ghpvc/?username=yassirelkhaili&style=for-the-badge&color=react"> </a>
-      </td>
-    </tr>
-  </table>
+## 👨‍💻 About
 
-## Skills
+###
 
-- Front End developement, Back End developement.
-- Html, Css, Bootstrap, Tailwindcss, Typescript, Javascript, Php, C, Sql, Reactjs, Expressjs, Nextjs, Nodejs, Laravel, Prisma.
+<p align="left">I'm Yassir Elkhaili<br><br>- 🔭 I’m working as a Full Stack Software Engineer.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>, and enrolled at <a href="https://twitter.com/1337FIL">@1337FIL</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 charracters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://yassirelkhaili.github.io/resume/" target="_blank">resume</a>.</p>
 
-## Projects
-- Only my Current Ongoing projects are listed in my Protfolio at www.yassirelkhaili.com
-- Source Code: You can check out my personal projects in my Github Profile
-- Live Demo: Check out my Netlify Account https://app.netlify.com/teams/yassirelkhaili
-- Note my Wordpress Wesites are not included in this Github:  https://www.marrakech-excursions.co.uk/ https://moroccan-leather-pouf.com/ 
-http://funkech.com/
+###
 
-## Education
+## 🛠️ Skills
 
-Please check out my CV it can be downloaded from my Portfolio at www.yassirelkhaili.com
+### 🌐 Frontend Development
 
-## Kontakt
+###
 
-- 📫 How to reach me: 
-You can Contact me through E-mail: elkhailiyassir@gmail.com or Whatsapp: +212623683260 or through the contact form on my personal Portfolio: www.yassirelkhaili.com
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+</div>
 
-#
-#
+###
 
-# 👋 Hallo!, Ich bin @yassirelkhaili
+### ⚙️ Backend Development
 
-Ich heiße Yassir Elkhaili, Ich bin Student und Entwickler mit Leidenschaft für Technologie und Softwareentwicklung. Derzeit studiere ich Webentwicklung und Programmierung an der Webcinq (https://webcinq.com/) und mache ein Praktikum bei Eureka Creation (https://www.eureka-creation.ma/) und freue mich auf die Möglichkeit, mehr Erfahrungen in diesem Bereich zu sammeln.
+###
 
-Ich habe eine solide Grundlage in den unten genannten Fähigkeiten erworben. Durch mein Studium, meine Ausbildung und mein Praktikum hatte ich die Gelegenheit, an einer Reihe von persönlichen Projekten zu arbeiten, die mir ermöglicht haben, meine Fähigkeiten in einem praktischen Kontext anzuwenden. Ich bin immer auf der Suche nach Möglichkeiten, zu lernen und mich weiterzuentwickeln.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+</div>
 
-Ich bin eine fleißige und detailorientierte Person mit ausgezeichneten Problemlösungsfähigkeiten. meine Fähigkeiten und Kenntnisse einem Team talentierter Fachleute zur Verfügung zu stellen und einen bedeutenden Beitrag zu leisten. Vielen Dank für Ihr Interesse.
+###
 
-## Fähigkeiten
+### 📄 Programming Languages
 
-- Front End-Entwicklung, Back End-Entwicklung.
-- Html, Css, Bootstrap, Tailwindcss, Typescript, Javascript, Php, C, Sql, Reactjs, Expressjs, Nextjs, Nodejs, Laravel, Prisma.
+###
 
-## Projekte
- 
-- Alle meine aktuellen Projekte sind in meinem Protfolio unter www.yassirelkhaili.com aufgelistet.
-- Quellcode: Sie können sich meine persönlichen Projekte in meinem Github-Profil ansehen.
-- Live-Demo: Schauen Sie sich mein Netlify-Konto an: https://app.netlify.com/teams/yassirelkhaili
-- Hinweis: Meine Wordpress-Websites sind nicht in diesem Github enthalten: https://www.marrakech-excursions.co.uk/ https://moroccan-leather-pouf.com/ http://funkech.com/
-## Bildung
+<div align="left">
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+</div>
 
-Bitte schauen Sie sich meinen Lebenslauf an, der von meinem Portfolio unter www.yassirelkhaili.com heruntergeladen werden kann.
+###
 
-## Contact
+### 💻 Tools & Environment
 
-- 📫 Wie Sie mich erreichen können: 
-Sie können mich per E-Mail: elkhailiyassir@gmail.com oder WhatsApp: +212623683260 erreichen oder über das Kontaktformular auf meinem persönlichen Portfolio: www.yassirelkhaili.com
+###
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+</div>
+
+###
+
+## 📊 Stats
+
+###
+
+<div align="left">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yassirelkhaili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=yassirelkhaili&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yassirelkhaili&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=yassirelkhaili&count_private=true&theme=react&card_width=300&langs_count=5" alt="wakatime stats">
+</div>
+
+###
+
+## ✨ Highlights
+
+###
+
+<div align="left">
+       <a href="https://github.com/yassirelkhaili/webnebula"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=webnebula&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+    <a href="https://github.com/yassirelkhaili/PeoplePerTask"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=PeoplePerTask&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+   <a href="https://github.com/yassirelkhaili/APGFE"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=APGFE&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+   <a href="https://github.com/yassirelkhaili/swiftfix"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=Swiftfix&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/yassirelkhaili/simpleorm"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=SimpleORM&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/yassirelkhaili/resume"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=resume&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+</div>
+
+###
+
+## 📅 Metrics
+
+###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yassirelkhaili&repo=IP-Finder&disable_animations=false&theme=react&hide_border=false&radius=6" alt="github-readme-streak-stats">
+
+###
