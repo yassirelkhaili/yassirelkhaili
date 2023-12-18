@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-<h2>Hello There👋! I'm Yassir Elkhaili</h2>
+<h2>Hello There👋!</h2>
 </div>
 
 ###
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Full Stack Software Engineer.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>, and enrolled at <a href="https://twitter.com/1337FIL">@1337FIL</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 charracters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://yassirelkhaili.github.io/resume/" target="_blank">resume</a>.</p>
+<p align="left">I'm Yassir Elkhaili<br><br>- 🔭 I’m working as a Full Stack Software Engineer.<br>- 📚 I'm currently studying at <a href="https://twitter.com/youcode18">@YouCode</a>, and enrolled at <a href="https://twitter.com/1337FIL">@1337FIL</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 charracters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://your-portfolio-website.com">website</a>.<br>&emsp;- Check out my <a href="https://yassirelkhaili.github.io/resume/" target="_blank">resume</a>.</p>
 
 ###
 
