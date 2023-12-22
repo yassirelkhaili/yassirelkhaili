@@ -28,10 +28,6 @@
 
 ## 🛠️ Skills
 
-### 🌐 Frontend Development
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
@@ -48,15 +44,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-</div>
-
-###
-
-### ⚙️ Backend Development
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
@@ -68,26 +55,8 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-</div>
-
-###
-
-### 📄 Programming Languages
-
-###
-
-<div align="left">
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-</div>
-
-###
-
-### 💻 Tools & Environment
-
-###
-
-<div align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
@@ -98,8 +67,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
 </div>
-
-###
 
 ## 📊 Stats
 
