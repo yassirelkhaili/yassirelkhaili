@@ -30,43 +30,43 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=prisma" height="35" alt="prisma logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="2" />
+  <img width="4" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
 </div>
 
@@ -77,7 +77,7 @@
 <div align="left">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yassirelkhaili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=yassirelkhaili&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=yassirelkhaili&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=2" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=yassirelkhaili&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=4" height="150" alt="streak graph"  />
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=yassirelkhaili&count_private=true&theme=react&card_width=300&langs_count=5" alt="wakatime stats">
 </div>
 
