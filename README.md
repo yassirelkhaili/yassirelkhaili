@@ -92,7 +92,7 @@
     <a href="https://github.com/yassirelkhaili/PeoplePerTask"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=PeoplePerTask&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
    <a href="https://github.com/yassirelkhaili/APGFE"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=APGFE&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
    <a href="https://github.com/yassirelkhaili/swiftfix"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=Swiftfix&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
-  <a href="https://github.com/yassirelkhaili/simpleorm"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=SimpleKit&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
+  <a href="https://github.com/yassirelkhaili/simplekit"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=SimpleKit&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
   <a href="https://github.com/yassirelkhaili/resume"><img height="150" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yassirelkhaili&repo=resume&disable_animations=false&theme=react&hide_border=false&border_radius=5" alt="github-readme-top-repositories"></a>
 </div>
 
