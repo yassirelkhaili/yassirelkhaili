@@ -28,7 +28,7 @@
 
 ## 🛠️ Skills
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
@@ -44,6 +44,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
@@ -57,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
