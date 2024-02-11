@@ -68,6 +68,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
 ## 📊 Stats
