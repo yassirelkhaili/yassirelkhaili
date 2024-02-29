@@ -1,10 +1,10 @@
 <img align="right" height="150" src="https://i.imgur.com/jN1xFwh.jpg" />
 
-###
-
 <div align="left">
 <h2>Hello There👋! I'm Yassir Elkhaili</h2>
 </div>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/yassirelkhaili"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
