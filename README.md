@@ -55,9 +55,9 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
   <img width="3" />
