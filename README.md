@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Full Stack Software Engineer.<br>- 📚 I am currently enrolled at <a href="https://x.com/SzUtbremen">@SzUtbremen</a> and completing an apprenticeship as a software developer at <a href="https://x.com/ePhilosAG">@ePhilosAG</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 characters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://www.monoitsolutions.com">website</a>.<br>&emsp;- Check out my online <a href="https://yassirelkhaili.com" target="_blank">resume</a>.</p>
+<p align="left">- 🔭 I’m working as a Full Stack Software Engineer.<br>- 📚 I am currently enrolled at <a href="https://x.com/SzUtbremen">@SzUtbremen</a> and interning as a software developer at <a href="https://x.com/ePhilosAG">@ePhilosAG</a>.<br>- ⚡ In my free time I work on my personal projects, workout or hike. <br>- 💡 Self-taught professional problem solver, occasional creator of awesome things.<br>- 🎯 Goals: To become the Avatar of code: bringing harmony to the developement world. <br>- 🎲 Fun fact: The largest sql query I have ever written is 715 characters long. <br>- 📫 Let's connect:<br>&emsp;- Visit my <a href="https://www.monoitsolutions.com">website</a>.<br>&emsp;- Check out my online <a href="https://yassirelkhaili.com" target="_blank">resume</a>.</p>
 
 ###
 
