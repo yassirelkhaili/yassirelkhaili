@@ -80,7 +80,7 @@
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yassirelkhaili&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=react&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=yassirelkhaili&locale=en&hide_title=false&layout=compact&card_width=368&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com/?user=yassirelkhaili&locale=en&mode=daily&theme=react&hide_border=false&bordr_radius=5&order=3" height="150" alt="streak graph"  />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=yassirelkhaili&count_private=true&theme=react&card_width=300&langs_count=5" alt="wakatime stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=yassirelkhaili&count_private=true&theme=react&card_width=300&langs_count=5" alt="wakatime stats"  />
 </div>
 
 ###
