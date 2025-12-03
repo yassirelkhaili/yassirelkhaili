@@ -43,6 +43,8 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=angular" height="35" alt="react logo"  />
   <img width="3" />
+  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="react logo"  />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
